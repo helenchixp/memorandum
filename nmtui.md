@@ -1,5 +1,8 @@
 Linux(Centos) nmtui Command
 
+How to set the ssh in virtural box.
+
+use 'nmtui' command, and set the 'enp0s3' and 'enp0s8'.
 ``` bash
 nmtui
 ```
